@@ -1,0 +1,37 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+}
+
+h1 {
+ text-align: center   
+}
+
+div.sketch {
+    float: left;  
+}
+
+div.newline {
+    clear: both;
+}
+
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 360px;
+    height:360px;
+}
+
+button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100px;
+    height:25px;
+}
+
+
+.pad {
+ height:10px;
+}
